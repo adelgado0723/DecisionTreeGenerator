@@ -3,7 +3,7 @@
 ## Contents
 
 - [**About**](#about)
-- [**Step 1 - User Prompted to Select Input File**](#step_1)
+- [**Step 1 - User Prompted to Select Input File**](#step-1---user-prompted-to-select-input-file)
 - [**Step 2 - Decision Tree Displayed**](#step_2)
 - [**Step 3 - Query Tuple Provided**](#step_3)
 - [**Step 4 - Prediction**](#step_4)
