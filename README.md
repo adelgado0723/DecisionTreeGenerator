@@ -4,9 +4,9 @@
 
 - [**About**](#about)
 - [**Step 1 - User Prompted to Select Input File**](#step-1---user-prompted-to-select-input-file)
-- [**Step 2 - Decision Tree Displayed**](#step-2)
-- [**Step 3 - Query Tuple Provided**](#step-3)
-- [**Step 4 - Prediction**](#step-4)
+- [**Step 2 - Decision Tree Displayed**](#step-2---decision-tree-displayed)
+- [**Step 3 - Query Tuple Provided**](#step-3---query-tuple-provided)
+- [**Step 4 - Prediction**](#step-4---prediction)
 - [**Demo**](#demo)
 
 
