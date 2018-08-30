@@ -48,7 +48,7 @@ Reading the second row, we can see it belongs to a customer who falls in the ***
 ![Example1](media/screenshots/4_decision_tree.png)
 
 
-Here, the decision tree is displayed in a *JTextArea* object. The root of the tree will be the attribute with the highest calculated entropy and is used to produce the first *split* in the tree. Entropy is an estimate of the information that could be gained by splitting  that decision tree using a given attribute. In the image below, we can see that the attribute with the highest calculated entropy was ***age*** and the possible classes include ***{youth, middle_aged, senior}***. The attribute with the highest entropy is selected in order to keep the tree as small as possible.
+Here, the decision tree is displayed in a *JTextArea* object. The root of the tree will be the attribute with the highest calculated entropy and is used to produce the first *split* in the tree. Entropy is an estimate of the information that could be gained by splitting  that decision tree using a given attribute. In the image below, we can see that the attribute with the highest calculated entropy was ***age*** and the possible classes include ***youth, middle_aged, or senior***. The attribute with the highest entropy is selected in order to keep the tree as small as possible.
 
 
 ## Step 3 - Query Tuple Provided
