@@ -9,6 +9,7 @@
 - [**Step 4 - Prediction**](#step-4---prediction)
 - [**Demo**](#demo)
 
+<hr>
 
 ## About
 
@@ -20,7 +21,9 @@ company has collected about their customers. The *Decision Tree Generator* will
 attempt to find other factors and combinations of factors (such as age, income,
 and student status) related to that a customer's is likeliness to make a
 purchase.
- 		
+
+<hr>
+		
 ## Step 1 - User Prompted to Select Input File
 
 ### Prompt
@@ -58,6 +61,7 @@ the ***fair*** credit rating class, and the ***no*** buys_computer class. So
 this person is young, makes high income, is not a student, has a fair credit
 rating, and *did not buy a computer*.
 
+<hr>
 
 ## Step 2 - Decision Tree Displayed
 
@@ -73,6 +77,7 @@ calculated entropy was ***age*** and the possible classes include ***youth,
 middle_aged, or senior***. The attribute with the highest entropy is selected
 in order to keep the tree as small as possible.
 
+<hr>
 
 ## Step 3 - Query Tuple Provided
 
@@ -82,6 +87,8 @@ User provides a data point in the form of a tuple, excluding the value for the
 attribute that is being predicted. The tuple provided here is young, makes high
 income, is a student, and has fair credit. 
 
+<hr>
+
 ## Step 4 - Prediction
 
 ![Example1](media/screenshots/6_prediction.png)
@@ -89,6 +96,8 @@ income, is a student, and has fair credit.
 A simple prediction is displayed in the message dialog box which indicates the
 class prediction for the attribute ***buys_computer***.
 
+
+<hr>
 
 ## Demo
 
